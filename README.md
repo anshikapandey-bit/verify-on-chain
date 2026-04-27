@@ -32,3 +32,10 @@ Users can verify authenticity by entering the certificate ID.
 - IPFS integration
 - QR code verification
 
+## ▶️ How to Use
+
+1. Open the live demo link
+2. Login as admin and upload a certificate
+3. Copy the generated certificate ID
+4. Go to verification page
+5. Enter the ID to verify authenticity
