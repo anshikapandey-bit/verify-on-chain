@@ -1,4 +1,5 @@
 Verify-On-Chain 🔗
+> A decentralized-inspired system to verify certificates and prevent fraud.
 
 🌐 Live Demo: https://verify-on-chain.preview.emergentagent.com/
 
